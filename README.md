@@ -26,6 +26,5 @@ Welcome to my portfolio! Here, you'll find highlights from my work in software e
 - [View Project Details](projects/regression-testing.md)
 
 ## Let's Connect
-- LinkedIn: [Will Walton](your-linkedin)
-- Email: your.email@example.com
-- GitHub: [WillWalton](your-github)
+- LinkedIn: [Will Walton](https://www.linkedin.com/in/will-walton-iii-352402245)
+- Email: willcwalton3@gmail.com
