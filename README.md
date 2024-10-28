@@ -7,23 +7,20 @@ Welcome to my portfolio! Here, you'll find highlights from my work in software e
 
 ## Featured Projects
 
-### Code Review Dashboard
+### Google Reviewer AI System
 *Google Tech Exchange Program*
-- Built an AI-powered dashboard that streamlines code reviews using Google Cloud
-- Technologies: Python, React, Google Cloud (BigQuery, Vertex AI)
-- [View Project Details](projects/code-review-dashboard.md)
+- Built an AI-powered system that streamlines code reviews using Google Cloud
+- Technologies: Python, Streamlit, Google Cloud (BigQuery, Vertex AI)
 
 ### Integration Monitoring System  
 *Data Engineering Internship*
 - Developed cloud monitoring solutions for tracking integration activities
 - Technologies: Power BI, Azure Services, C#
-- [View Project Details](projects/integration-monitoring.md)
 
 ### Regression Testing Management Platform
 *Software Engineering Internship at Wabtec*
 - Created system for organizing and tracking regression testing projects
-- Technologies: React, Flask, PostgreSQL
-- [View Project Details](projects/regression-testing.md)
+- Technologies: React, Flask, PostgreSQL, Python
 
 ## Let's Connect
 - LinkedIn: [Will Walton](https://www.linkedin.com/in/will-walton-iii-352402245)
