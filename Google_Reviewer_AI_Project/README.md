@@ -1,4 +1,4 @@
-# Code Review Dashboard Project
+# Google Reviewer AI System
 *Student Collaboration - Google Tech Exchange Program*
 
 ## Project Overview
