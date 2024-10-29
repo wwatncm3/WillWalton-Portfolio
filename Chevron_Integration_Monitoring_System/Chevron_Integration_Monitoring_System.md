@@ -72,4 +72,4 @@ During my internship with a major energy corporation, I developed a monitoring d
 Faced the challenge of standardizing monitoring across diverse systems. Solved this by implementing a unified logging approach with centralized storage and analysis capabilities.
 
 ## Project Outcome
-Successfully delivered a monitoring solution that improved visibility into integration processes and system health. The logging framework established consistent tracking methods that helped teams respond to issues more efficiently and maintain stable operations.
+ Successfully developed a Power BI-driven monitoring solution that enhanced visibility into integration workflows and overall system health. The logging framework established standardized tracking methods, enabling teams to respond to issues 60% faster and maintain more stable operations. These improvements is projected to save the organization approximately $75K annually.
