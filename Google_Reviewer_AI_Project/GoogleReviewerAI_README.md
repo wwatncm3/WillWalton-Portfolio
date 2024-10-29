@@ -49,7 +49,7 @@ As part of a student team in the Google Tech Exchange program, we developed a sy
   Integrated GitHub for source control, and set up continuous integration and deployment (CI/CD) pipelines to ensure consistent, tested updates.
 
 ### Development Tools & Practices
-- **Version Control: Used GitHub for version control, employing branching strategies and regular commits to maintain a clear project history and enable seamless     collaboration**
+- **Version Control**: Used GitHub for version control, employing branching strategies and regular commits to maintain a clear project history and enable seamless     collaboration**
 - **Data Processing**: BigQuery for large-scale data analysis
 - **AI Integration**: Vertex AI for automated review insights
 - **Quality Assurance**: Comprehensive unit testing and user experience validation
