@@ -46,10 +46,11 @@ The system was designed to:
 - **Authentication**: Okta
 
 ## Development Tools
-- **IDEs**: Visual Studio Code and Visual Studio
+- **IDEs**: Visual Studio Code
 - **Container Platform**: Docker
 - **Package Management**: NPM
-- **Version Control**: GitLab
+- **Version Control Process: Leveraged Git for version control, utilizing branching strategies and commit best practices to ensure project updates were tracked effectively and collaboratively.**
+
 
 ## Key Development Areas and Challenges
 
