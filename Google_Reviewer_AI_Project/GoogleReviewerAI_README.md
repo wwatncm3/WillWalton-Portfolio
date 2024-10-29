@@ -2,10 +2,10 @@
 *Student Collaboration - Google Tech Exchange Program*
 
 ## Project Overview
-As part of a student team in the Google Tech Exchange program, we developed a dashboard that optimizes the code review process through machine learning and cloud technologies. Our goal was to create a solution that would enhance review efficiency while providing meaningful feedback to engineering teams.
+As part of a student team in the Google Tech Exchange program, we developed a system that optimizes the code review process through machine learning and cloud technologies. Our goal was to create a solution that would enhance review efficiency while providing meaningful feedback to engineering teams.
 
 ## Project Objectives
-- Develop an intuitive dashboard for real-time code review monitoring and analysis
+- Develop an intuitive system for real-time code review monitoring and analysis
 - Implement AI-powered features to streamline review workflows and automate routine tasks
 - Leverage Google Cloud technologies for robust data processing and visualization
 
@@ -17,10 +17,10 @@ As part of a student team in the Google Tech Exchange program, we developed a da
 
 ### AI-Powered Recognition System
 - Developed an automated achievement system using Vertex AI to recognize reviewer contributions
-- Integrated recognition metrics into the dashboard to encourage consistent, quality reviews
+- Integrated recognition metrics into the system to encourage consistent, quality reviews
 - Used machine learning to establish objective criteria for achievements
 
-### Interactive Dashboard Interface
+### Interactive system Interface
 - Built with Streamlit to ensure an intuitive user experience
 - Incorporated data visualizations to help teams identify review priorities
 - Designed for accessibility and ease of use across different experience levels
@@ -32,7 +32,7 @@ As part of a student team in the Google Tech Exchange program, we developed a da
 
 ### Team Engagement Features
 - Integrated analytics for review frequency and quality metrics
-- Created performance dashboards to help identify areas for process improvement
+- Created performance systems to help identify areas for process improvement
 
 ## Technical Implementation
 
@@ -71,7 +71,7 @@ As part of a student team in the Google Tech Exchange program, we developed a da
 - **Solution**: Iterative design process with continuous user feedback
 
 ## Results
-Our dashboard successfully improved the code review workflow through automation and enhanced visibility. The project demonstrated how student teams can leverage modern cloud and AI technologies to create practical solutions for real-world development challenges.
+Our system successfully improved the code review workflow through automation and enhanced visibility. The project demonstrated how student teams can leverage modern cloud and AI technologies to create practical solutions for real-world development challenges.
 
 ## Team Acknowledgments
 This project was developed collaboratively by students in the Google Tech Exchange program, combining our diverse skills in full-stack development, cloud architecture, and machine learning.
