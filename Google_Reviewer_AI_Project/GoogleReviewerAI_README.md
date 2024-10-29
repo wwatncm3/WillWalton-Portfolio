@@ -41,7 +41,7 @@ As part of a student team in the Google Tech Exchange program, we developed a sy
 - **Backend**: Google Cloud BigQuery, Vertex AI,Python
 - **Infrastructure**: Google Cloud Services
 
-# Infrastructure & Deployment
+### Infrastructure & Deployment
 - **Google Cloud Platform Deployment**  
   Deployed the system using Google Cloud Platform services to ensure scalability and availability. Leveraged Google Compute Engine (GCE) instances for handling backend processes when necessary, enabling a stable environment for continuous data processing and model integration.
 
