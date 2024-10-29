@@ -41,6 +41,13 @@ As part of a student team in the Google Tech Exchange program, we developed a sy
 - **Backend**: Google Cloud BigQuery, Vertex AI,Python
 - **Infrastructure**: Google Cloud Services
 
+# Infrastructure & Deployment
+- **Google Cloud Platform Deployment**  
+  Deployed the system using Google Cloud Platform services to ensure scalability and availability. Leveraged Google Compute Engine (GCE) instances for handling backend processes when necessary, enabling a stable environment for continuous data processing and model integration.
+
+- **Version Control & CI/CD**  
+  Integrated GitHub for source control, and set up continuous integration and deployment (CI/CD) pipelines to ensure consistent, tested updates.
+
 ### Development Tools & Practices
 - **Version Control: Used GitHub for version control, employing branching strategies and regular commits to maintain a clear project history and enable seamless     collaboration**
 - **Data Processing**: BigQuery for large-scale data analysis
