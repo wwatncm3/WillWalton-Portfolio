@@ -16,11 +16,17 @@ Welcome to my portfolio! Here, you'll find highlights from my work in software e
 *Data Engineering Internship*
 - Developed cloud monitoring solutions for tracking integration activities
 - Technologies: Power BI, Azure Services, C#
-
+  
 ### Regression Testing Management Platform
 *Software Engineering Internship at Wabtec*
 - Created system for organizing and tracking regression testing projects
 - Technologies: React, Flask, PostgreSQL, Python
+
+### Career Roadmap Project
+*Side Project*
+- Developed an interactive career roadmap website showcasing professional milestones with engaging UI/UX features.
+- Technologies: HTML, CSS, JavaScript, AWS S3, GitHub Actions
+
 
 ## Let's Connect
 - LinkedIn: [Will Walton](https://www.linkedin.com/in/will-walton-iii-352402245)
