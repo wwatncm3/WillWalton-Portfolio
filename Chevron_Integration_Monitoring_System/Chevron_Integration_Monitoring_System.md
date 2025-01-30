@@ -67,6 +67,7 @@ During my internship with a major energy corporation, I developed a monitoring d
 - **Cloud Services**: Azure platform services
 - **Testing**: C# development
 - **Monitoring**: Cloud monitoring and analytics tools
+- **Version Control**: Github
 
 ## Key Challenge & Solution
 Faced the challenge of standardizing monitoring across diverse systems. Solved this by implementing a unified logging approach with centralized storage and analysis capabilities.
